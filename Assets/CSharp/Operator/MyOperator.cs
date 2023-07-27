@@ -3,7 +3,7 @@ using UnityEngine;
 //主题：运算符重载
 //实现的效果：A类可以+ - * /
 //语法：public static SourceType operator sign(SourceType lhs,SourceType rhs) {}       --SourceType：源文件类型 sign：运算符号
-public class MyOperate : MonoBehaviour
+public class MyOperator : MonoBehaviour
 {
     public class A
     {
