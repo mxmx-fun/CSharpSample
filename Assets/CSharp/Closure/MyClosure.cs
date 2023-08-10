@@ -66,6 +66,6 @@ public class MyClosure : MonoBehaviour
         // {
         //     Debug.Log(&v);
         // }
-        //所以打印出来会全部为10
+        //所以打印出来会为0-9
     }
 }
